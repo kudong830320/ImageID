@@ -5,4 +5,6 @@
   test資料夾(存放測試資料)  
   classnames.txt(類別EX:Ace/Luffy/Nami/Usopp/Zoro)  
 
+訓練準確率90%  
+最終預測正確
 ![image](https://github.com/kudong830320/ImageID/blob/main/Snipaste_2024-08-06_18-04-44.png)
